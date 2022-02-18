@@ -7,8 +7,8 @@ class ArrayListSorting {
     {
         ArrayList<Student> arraylist
                 = new ArrayList<Student>();
-        arraylist.add(new Student(12, "Riya", 15));
-        arraylist.add(new Student(14, "Mahima", 16));
+        arraylist.add(new Student(12, "Aryan", 21));
+        arraylist.add(new Student(14, "Shagun", 20));
         arraylist.add(new Student(13, "Shubhi", 15));
         arraylist.add(new Student(15, "Shubh", 17));
         Collections.sort(arraylist);
